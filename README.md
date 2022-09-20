@@ -16,25 +16,25 @@ but still exploring other technologies and frameworks that catch my interest! if
 
 ## 🛠 Tech Stack
 
+<div > 
 <div align="center" > 
-<> 
-<img src="https://camo.githubusercontent.com/8292a3950122da8e47d34e5402cc31853cad0e8bc4095a0ff5b34ddaf8e44dfd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d617232312e737667" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://camo.githubusercontent.com/ce5c1c07234a7e3a5224a86cad5c946f62b7ec77559986f7d1d32cc7a2f8c32c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d617232312e737667" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://camo.githubusercontent.com/74f0f73d1bdb68c41273493a343cdbf487f6cf9a38bed2d104f4fd611aad9f74/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d617232312e737667" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="70" height="100" margin="0.5rem 1rem" /> 
-<img src="https://miro.medium.com/max/800/1*4sxOPaVNwxrfZ9uxVbUaKg.jpeg" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
+<img src="https://camo.githubusercontent.com/8292a3950122da8e47d34e5402cc31853cad0e8bc4095a0ff5b34ddaf8e44dfd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d617232312e737667" alt="css3" width="100" height="70"  /> 
+<img src="https://camo.githubusercontent.com/ce5c1c07234a7e3a5224a86cad5c946f62b7ec77559986f7d1d32cc7a2f8c32c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d617232312e737667" alt="css3" width="100" height="70"  /> 
+<img src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667" alt="css3" width="100" height="70"  /> 
+<img src="https://camo.githubusercontent.com/74f0f73d1bdb68c41273493a343cdbf487f6cf9a38bed2d104f4fd611aad9f74/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d617232312e737667" alt="css3" width="100" height="70" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="70" height="100"  /> 
+<img src="https://miro.medium.com/max/800/1*4sxOPaVNwxrfZ9uxVbUaKg.jpeg" alt="css3" width="100" height="70"  /> 
 </div>
-<div>
-<img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://xendit.co/wp-content/uploads/2020/03/NodeArtboard-1.png" alt="css3" width="100" height="70" margin="0.5rem 1rem" /> 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="css3" width="100" height="70" margin="0.5rem 1rem" />
-<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="css3" width="120" height="70" margin="0.5rem 1rem" />
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="css3" width="120" height="70" margin="0.5rem 1rem" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/2560px-Netlify_logo.svg.png" alt="css3" width="120" height="50" margin="0.5rem 1rem" />
+<div align="center" >
+<img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" alt="css3" width="100" height="70"  /> 
+<img src="https://xendit.co/wp-content/uploads/2020/03/NodeArtboard-1.png" alt="css3" width="100" height="70"  /> 
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="css3" width="100" height="70"  />
+<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="css3" width="120" height="70"  />
+<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="css3" width="120" height="70"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/2560px-Netlify_logo.svg.png" alt="css3" width="120" height="50"  />
 </div>
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="css3" width="120" height="50" margin="0.5rem 1rem" />
+<div align="center" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="css3" width="120" height="50"  />
 </div>
 </div>
 
