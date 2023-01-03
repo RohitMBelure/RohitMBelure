@@ -1,4 +1,4 @@
-<h1 align="center" >Hi 👋 I'm Rohit Belure</h1>
+6+<h1 align="center" >Hi 👋 I'm Rohit Belure</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitMBelure&label=Visitors&color=0e75b6&style=flat" alt="RohitMBelure" /> </p>
@@ -34,12 +34,11 @@ I'm a full stack web developer specialized in MERN stack, exploring other techno
 
 <br />
 <h2 align="center">📊 My Github Statistics<h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMBelure&theme=radical" alt="rohit" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RohitMBelure&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMBelure&theme=radical" alt="" height="250px" width="47%" />
+<br />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RohitMBelure&show_icons=true&theme=radical" height="255px" width="47%"/>
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMBelure&theme=radical&langs_count=8" alt="rohit" height="260px" width="25%" />
+<br />
+<img align="right" src="https://activity-graph.herokuapp.com/graph?username=RohitMBelure&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMBelure&theme=radical&langs_count=8" alt="rohit" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=RohitMBelure&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-</div>
